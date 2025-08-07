@@ -1,0 +1,27 @@
+[
+    {
+        "text": "I had ice cream today",
+        "sentiment": "Neutral",
+        "timestamp": "2025-08-06 20:01:54"
+    },
+    {
+        "text": "I feel more confident coding using Python",
+        "sentiment": "Positive",
+        "timestamp": "2025-08-06 20:02:16"
+    },
+    {
+        "text": "I feel more confident using the terminal ",
+        "sentiment": "Positive",
+        "timestamp": "2025-08-06 20:02:32"
+    },
+    {
+        "text": "I'm enjoying the Python exercises",
+        "sentiment": "Positive",
+        "timestamp": "2025-08-06 20:15:32"
+    },
+    {
+        "text": "I had Pizza for dinner",
+        "sentiment": "Neutral",
+        "timestamp": "2025-08-06 20:15:46"
+    }
+]
