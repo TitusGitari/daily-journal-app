@@ -1,4 +1,4 @@
-# 📝 Daily Journal App with Sentiment Analysis
+# Daily Journal App with Sentiment Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Beginner-Friendly](https://img.shields.io/badge/Level-Beginner-green)
